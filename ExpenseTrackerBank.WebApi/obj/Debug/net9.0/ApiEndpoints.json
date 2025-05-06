@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ExpenseTrackerBank.WebApi.Controllers.PaymentController",
+    "Method": "PostPayment",
+    "RelativePath": "api/expensetrackerbank/payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ExpenseTrackerBank.WebApi.Dtos.PaymentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net9.0\ExpenseTracker.Data.deps.json
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net9.0\ExpenseTracker.Data.runtimeconfig.json
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net9.0\ExpenseTracker.Data.dll
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\bin\Debug\net9.0\ExpenseTracker.Data.pdb
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.AssemblyInfo.cs
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.dll
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\refint\ExpenseTracker.Data.dll
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.pdb
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ExpenseTracker.Data.genruntimeconfig.cache
+C:\Users\lenovo\source\ExpenseTracker\ExpenseTracker.Data\obj\Debug\net9.0\ref\ExpenseTracker.Data.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ExpenseTrackerBank.WebApi.props" />
+</Project>

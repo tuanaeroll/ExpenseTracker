@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0dd92686-3057-4a0d-96aa-04795393e24f_fiş.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ExpenseTracker.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ExpenseTracker.Api</BasePath>
+      <RelativePath>uploads/0dd92686-3057-4a0d-96aa-04795393e24f_fiş.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1y35sf0fp6</Fingerprint>
+      <Integrity>x2SI4NGOULiIElnVxJHTt9QRsb7ZTNJxQGdL+j/dVd0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0dd92686-3057-4a0d-96aa-04795393e24f_fiş.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\62b5812c-c361-464b-88e7-07597acf7a4c_fiş.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ExpenseTracker.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ExpenseTracker.Api</BasePath>
+      <RelativePath>uploads/62b5812c-c361-464b-88e7-07597acf7a4c_fiş.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1y35sf0fp6</Fingerprint>
+      <Integrity>x2SI4NGOULiIElnVxJHTt9QRsb7ZTNJxQGdL+j/dVd0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\62b5812c-c361-464b-88e7-07597acf7a4c_fiş.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\638b88bb-7665-48ea-ae01-8cb9b86afc07_fiş.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ExpenseTracker.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ExpenseTracker.Api</BasePath>
+      <RelativePath>uploads/638b88bb-7665-48ea-ae01-8cb9b86afc07_fiş.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1y35sf0fp6</Fingerprint>
+      <Integrity>x2SI4NGOULiIElnVxJHTt9QRsb7ZTNJxQGdL+j/dVd0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\638b88bb-7665-48ea-ae01-8cb9b86afc07_fiş.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
