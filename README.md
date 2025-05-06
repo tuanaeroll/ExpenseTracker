@@ -197,10 +197,7 @@ Projeyi çalıştırdıktan sonra:
 
 
 <img width="458" alt="projeçalışırhal2" src="https://github.com/user-attachments/assets/3efb624b-7093-44c4-b6f0-207fff3df6ed" />
-
-
-```
-
+ 
 ## 📄 Lisans ve 👩‍💻 Geliştirici Bilgileri
 
 Bu proje 🎓 **eğitim ve değerlendirme** amacıyla geliştirilmiştir.  
@@ -211,3 +208,4 @@ Bu proje 🎓 **eğitim ve değerlendirme** amacıyla geliştirilmiştir.
 - 🐙 **GitHub:** [github.com/tuanaeroll](https://github.com/tuanaeroll)
 
 > 📌 Bu proje, Papara 💳 & Patika.dev 🚀 iş birliğinde düzenlenen .NET Bootcamp kapsamında geliştirilmiştir.
+---
